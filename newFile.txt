@@ -1,0 +1,9 @@
+Git 사용 순서
+
+0. 웹 브라우저에서 github.com/Shinzaen으로 들어간다.
+1. github사이트에 repo를 생성한다.
+2. Local컴퓨터(내 컴퓨터)에 repo를 clon한다.
+   File메뉴에서 clon repository
+3. 새로운 파일을 생성한다.
+4. commit to 
+5. push origin 
